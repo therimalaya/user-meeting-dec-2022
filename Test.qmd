@@ -1,0 +1,23 @@
+---
+title: "Test"
+format: revealjs
+editor: visual
+---
+
+## Melanoma and tumour thickness
+
+### T-categories
+
+![](Images/T-Stages.svg){width="100%" fig-align="center"}
+
+::: {.absolute .fragment .fade-in-then-out .fade-out data-id="box1" style="border: 2px solid #b22222; width: 130px; height: 100px; margin: 10px; background: #b2222211; border-radius: 20px;" top="21.5%" left="30%"}
+:::
+
+::: {.absolute .fragment .fade-right .fade-in-then-out data-id="box1" style="border: 2px solid #b22222; width: 130px; height: 100px; margin: 10px; background: #b2222222; border-radius: 20px;" top="21.5%" left="42%"}
+:::
+
+::: {.absolute .fragment .fade-right .fade-in-then-out data-id="box1" style="border: 2px solid #b22222; width: 130px; height: 100px; margin: 10px; background: #b2222233; border-radius: 20px;" top="21.5%" left="56%"}
+:::
+
+::: {.absolute .fragment .fade-right .fade-in-then-out data-id="box1" style="border: 2px solid #b22222; width: 130px; height: 100px; margin: 10px; background: #b2222244; border-radius: 20px;" top="21.5%" left="69%"}
+:::
